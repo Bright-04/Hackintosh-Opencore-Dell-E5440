@@ -25,6 +25,8 @@ This repository contains the EFI files for running macOS Monterey on a Dell E544
 
 ## Known Issues
 - Display: No brightness control
+- Bluetooth: Not working, to be fixed
+- Wifi: Same as Bluetooth. (Currently using Ethernet)
 - To be added
 
 ## Disclaimer
